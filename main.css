@@ -1,0 +1,70 @@
+/*  ВИДЕО КАРТЫ  */
+	table
+	{
+		height: 50px;
+		width: 100%;
+		background-color: rgb(0, 57, 22);
+		color: white;
+		margin: 0 0 0 0;
+		padding: 0 0 0 0;
+	}
+	tbody
+	{
+		width:100%;
+		margin: 0 0 0 0;
+		padding: 0 0 0 0;
+	}
+	tr
+	{
+
+	}
+	td
+	{
+		width: 18%;
+	}
+	h2
+	{
+		color: green;
+	}
+	a.red:visited
+	{
+        color:red;
+        text-decoration:none;
+    }
+    a.white:visited
+	{
+		color: #00dbff;
+        text-decoration:none;
+	}
+	img.abs
+	{
+       position: absolute;
+	}
+	body
+	{
+		background-color: black;
+	}
+    img.header
+    {
+    	position: absolute;
+    	z-index: 4;
+    	height: 50px;
+    }
+    button
+    {
+     	background-color: white;
+     	color:black;
+     	width: 270px;
+     	border-radius: 10px;
+     	border-color: green;
+     	margin-left: -250px;
+     	margin-top: -250px;
+     	position: absolute;
+     	left: 1300px;
+     	top: 790px;
+     	font-size: 40px;
+    }
+    p
+    {
+    	color: white;
+    }
